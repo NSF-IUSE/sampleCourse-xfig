@@ -1,5 +1,3 @@
-![Syllabus Template V2020.07.001](assets/images/uni_icon_small.png)
-{: .float-right}
 
 # **EE368 Software Engineering**
 
