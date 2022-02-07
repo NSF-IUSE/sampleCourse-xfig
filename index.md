@@ -1,6 +1,6 @@
     ---
 layout: default
-title: EE368 Software Engineering
+title: "EE368 Software Engineering"
 nav_exclude: true
 seo:
     type: Course

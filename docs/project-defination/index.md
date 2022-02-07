@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Definition
+title: "Project Definition"
 nav_order: 1
 has_children: false
 ---
