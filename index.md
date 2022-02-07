@@ -1,4 +1,4 @@
----
+    ---
 layout: default
 title: EE368 Software Engineering
 nav_exclude: true
@@ -19,7 +19,7 @@ Students will participate in managing and executing the process of carrying a si
 
 ### **Delivery Method**
 
-> ### **Online: Synchronous Online by Zoom (<https://clarkson.zoom.us/j/8464946103>) (Note: few students have schedule conflicting with other courses due to the COVID-19 measures in campus and they have the permission to attend this course in async mode. Their presentation can be recorded and played by the team leader.)**
+> **Online: Synchronous Online by Zoom (<https://clarkson.zoom.us/j/8464946103>) (Note: few students have schedule conflicting with other courses due to the COVID-19 measures in campus and they have the permission to attend this course in async mode. Their presentation can be recorded and played by the team leader.)**
 
 ## **Technology**
 
