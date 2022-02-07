@@ -4,7 +4,7 @@ title: "EE368 Software Engineering"
 nav_exclude: true
 seo:
     type: Course
-    name: Just the Class
+    name: "Just the Class"
 ---
 # **EE368 Software Engineering**
 
