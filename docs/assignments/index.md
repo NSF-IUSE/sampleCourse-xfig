@@ -61,6 +61,7 @@ Teams will work on 4 new features of Xfig, which are listed below:
                     the objects on the same layer. This feature is important to
                     address the object overlapping relationship.
                 </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/1">Change the Default Value of Depth for New Objects</a> </p>
                 <p>
                     (2). Users are allowed to change the depth of any Xfig
                     object, and then re-organize the overlapping among objects.
@@ -74,6 +75,7 @@ Teams will work on 4 new features of Xfig, which are listed below:
                     bottom layer (Note that Depth 0 is the top of the drawing
                     order).
                 </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/9">Send Object to Front</a> </p>
             </td>
             <td width="208" valign="top">
                 <p>
@@ -112,6 +114,7 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
                     “simple” VDX for this feature. If the genuine VDX format
                     has been implemented, 10 points bonuses will be offered.
                 </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/8">VDX Export Format</a> </p>
             </td>
             <td width="208" valign="top">
                 <p>
@@ -141,6 +144,12 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
                     Self-proposed features (follow the examples of #1 &amp; #2
                     to finish this table).
                 </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/7">Undo - Redo Button</a> </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/6">Quick Coloring</a> </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/5">Move Multiple Objects Simultaneously</a> </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/4">Undo Shortcut Button</a> </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/3">Toggle Unit Shortcut Button</a> </p>
+                <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/2">Enhanced Rotation</a> </p>
             </td>
             <td width="208" valign="top">
                 <p>
