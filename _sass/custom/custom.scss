@@ -98,22 +98,17 @@ body {
   line-height: 29px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
   font-family: "Helsinki", sans-serif;
+}
+
+h1, h2 {
+  color: $green !important;
 }
 
 b,
 strong {
-  color: $green !important;
-  em {
-    color: $black !important;
-  }
-}
-
-blockquote {
-  strong {
-    color: $black !important;
-  }
+  font-weight: bolder !important;
 }
 
 a {
@@ -124,6 +119,7 @@ a {
   width: 890px;
   max-width: none;
 }
+
 .side-bar {
   background-color: $green !important;
 }
@@ -132,8 +128,9 @@ a {
   font-size: 20px !important;
   color: $white !important;
 }
+
 .nav-list-item.active a {
-  color: #10126e !important;
+  color: $green !important;
 }
 
 @media (min-width: 31.25rem) {

@@ -8,8 +8,6 @@ seo:
 ---
 # **EE368 Software Engineering**
 
-{: .d-block}
-
 **_(Spring 2021 (10:20AM – 11:10AM Jan. 13, 2021 – Apr. 30, 2021))
 (3) Credit Hours_**
 
