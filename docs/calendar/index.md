@@ -430,7 +430,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L10 – <a href="/assets/files/L10 - verification.ppt">Verification</a>
+                    <strong class="label label-green">L10</strong> – <a href="/assets/files/L10 - verification.ppt">Verification</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -449,7 +449,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L11 – <a href="/assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
+                    <strong class="label label-green">L11</strong> – <a href="/assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
                 </p>
             </td>
             <td width="142" valign="top">
@@ -477,7 +477,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L12 – <a href="/assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
+                    <strong class="label label-green">L12</strong> – <a href="/assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
                 </p>
                 <p>
                     Essay Assignment
@@ -535,7 +535,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td width="293" valign="top">
                 <p>
-                    L13 – <a href="/assets/files/L13 - final stages.ppt">Software Security</a>
+                    <strong class="label label-green">L13</strong> – <a href="/assets/files/L13 - final stages.ppt">Software Security</a>
                 </p>
             </td>
             <td width="142" valign="top">

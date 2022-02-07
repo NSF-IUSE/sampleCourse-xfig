@@ -23,10 +23,10 @@ Students will participate in managing and executing the process of carrying a si
 
 ## **Technology**
 
-> - ## [Computer System & Software Requirements](https://confluence.clarkson.edu/display/OITKB/Technology+recommendations+for+Distance+and+Online+Learning)
-> - ## [Software Accessibility Policies](https://confluence.clarkson.edu/display/OITKB/Accessibility+Statements) in General
-> - ## [Software Privacy Policies](https://confluence.clarkson.edu/display/OITKB/Privacy+Policies) in General
-> - ## Specific Course Software Policies
+> - ### [Computer System & Software Requirements](https://confluence.clarkson.edu/display/OITKB/Technology+recommendations+for+Distance+and+Online+Learning)
+> - ### [Software Accessibility Policies](https://confluence.clarkson.edu/display/OITKB/Accessibility+Statements) in General
+> - ### [Software Privacy Policies](https://confluence.clarkson.edu/display/OITKB/Privacy+Policies) in General
+> - ### Specific Course Software Policies
 
 > ### **Minimum Technology Skills**
 >
