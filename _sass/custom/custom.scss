@@ -92,10 +92,14 @@ $white: #fff;
     url("../../assets/font/KOMTXKBI.woff") format("woff");
 }
 
-* {
+body {
   color: $black;
-  font-family: "Helsinki", sans-serif !important;
+  font-family: "Komika Text", sans-serif;
   line-height: 29px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Helsinki", sans-serif;
 }
 
 b,
