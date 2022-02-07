@@ -1,4 +1,4 @@
-    ---
+---
 layout: default
 title: "EE368 Software Engineering"
 nav_exclude: true
