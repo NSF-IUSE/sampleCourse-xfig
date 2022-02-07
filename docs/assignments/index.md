@@ -27,7 +27,9 @@ _Professionalism_: Being a professional means you should work well with others. 
 
 ## **Feature Change Requests:**
 
-Teams will work on 4 new features of Xfig, which are listed below:
+
+This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
+
 
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
@@ -159,6 +161,35 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
         </tr>
     </tbody>
 </table>
+
+Each team needs to choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and assigning tasks. Each feature will have a **feature champion** (others team members, except the team leader), who will lead this feature development. All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
+
+Grading rules for each deliverable will be posted on moodle assignments. Late submission will not be accepted unless the instructor has been notified with an acceptable reason.
+
+## **Grading**
+
+- 70 points (projects)
+
+> – xfig Architecture Document & Presentation: 10 points
+>
+> – New Features Analysis (a.k.a., Requirements): 10 points
+>
+> – Design (Concept Location & Impact Analysis): 10 points
+>
+> – Test Cases & Results: 10 points
+>
+> – Code Inspection: 10 points
+>
+> – New Features: 20 points (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
+
+- 5 points – xfig Supporting Technique – X Window Document & Presentation
+- 5 points - Cross Evaluation of Contribution of Team Members
+- 5 points – Essay for Ethics and Social Issues in Software Engineering under the COVID-19 pandemic (minimal 2 pages excluding references)
+- 15 points – Exam
+
+### **Criteria**
+
+- Grading rule for each assignment will be posted on moodle.
 
 ## **Deliverables & Schedule & Grading Rules:**
 
