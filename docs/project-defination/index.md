@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Assignments
+title: Project Definition
 nav_order: 1
 has_children: false
 ---
 
-# **Project Description**
+# **Project Definition**
 
 ## **Objectives:**
 
@@ -31,32 +31,32 @@ _Professionalism_: Being a professional means you should work well with others. 
 This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
 
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
     <tbody>
         <tr>
-            <td width="85" valign="top">
+            <td>
                 <p>
                     <strong>Feature #</strong>
                 </p>
             </td>
-            <td width="331" valign="top">
+            <td>
                 <p>
                     <strong>Change Request/New Feature</strong>
                 </p>
             </td>
-            <td width="208" valign="top">
+            <td>
                 <p>
                     <strong>Scope</strong>
                 </p>
             </td>
         </tr>
         <tr>
-            <td width="85" valign="top">
+            <td>
                 <p>
                     #1
                 </p>
             </td>
-            <td width="331" valign="top">
+            <td>
                 <p>
                     (1). Each Xfig object (e.g., arch, line, rectangle) has a
                     property called depth, which is used to identify and group
@@ -79,7 +79,7 @@ This course project is team based. Students attending this course will be groupe
                 </p>
                 <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/9">Send Object to Front</a> </p>
             </td>
-            <td width="208" valign="top">
+            <td>
                 <p>
                     This new feature has global impact to Xfig source codes,
                     and these components below will be involved:
@@ -94,12 +94,12 @@ This course project is team based. Students attending this course will be groupe
             </td>
         </tr>
         <tr>
-            <td width="85" valign="top">
+            <td>
                 <p>
                     #2
                 </p>
             </td>
-            <td width="331" valign="top">
+            <td>
                 <p>
                     (1). Xfig allows users to export xfig figure into multiple
                     figure formats, such as PNG, EPS, JPG, PDF, etc;
@@ -118,7 +118,7 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
                 </p>
                 <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/8">VDX Export Format</a> </p>
             </td>
-            <td width="208" valign="top">
+            <td>
                 <p>
                     This new feature has global impact to xfig source codes,
                     and these components below will be involved:
@@ -136,12 +136,12 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
             </td>
         </tr>
         <tr>
-            <td width="85" valign="top">
+            <td>
                 <p>
                     #3 &amp; #4
                 </p>
             </td>
-            <td width="331" valign="top">
+            <td>
                 <p>
                     Self-proposed features (follow the examples of #1 &amp; #2
                     to finish this table).
@@ -153,7 +153,7 @@ a well-documented                    <a href="https://en.wikipedia.org/wiki/XML"
                 <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/3">Toggle Unit Shortcut Button</a> </p>
                 <p><a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/2">Enhanced Rotation</a> </p>
             </td>
-            <td width="208" valign="top">
+            <td>
                 <p>
                     Follow the examples of #1 &amp; #2 to finish this table
                 </p>
