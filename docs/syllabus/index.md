@@ -35,7 +35,7 @@ During this course, as your instructor, you can expect me to
 
 ## **Delivery Method**
 
-> **Online: Synchronous Online by Zoom (<https://clarkson.zoom.us/j/8464946103>) (Note: few students have schedule conflicting with other courses due to the COVID-19 measures in campus and they have the permission to attend this course in async mode. Their presentation can be recorded and played by the team leader.)**
+Online: Synchronous Online by Zoom (<https://clarkson.zoom.us/j/8464946103>) (Note: few students have schedule conflicting with other courses due to the COVID-19 measures in campus and they have the permission to attend this course in async mode. Their presentation can be recorded and played by the team leader.)
 
 ## **Instructional Materials**
 
@@ -114,8 +114,8 @@ Upon success of finishing this course, all assignments need to be submitted on t
 
 > [Undergraduate: III-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations) > [Graduate – II-F. Attendance](https://www.clarkson.edu/student-administrative-services-sas/clarkson-regulations)
 >
-> ### [**Grading System**](https://intranet.clarkson.edu/student-life/sas/grading-system/)
+> [Grading System](https://intranet.clarkson.edu/student-life/sas/grading-system/)
 >
-> ### [**Discrimination & Harassment**](https://www.clarkson.edu/diversity-and-inclusion-policies)
+> [Discrimination & Harassment](https://www.clarkson.edu/diversity-and-inclusion-policies)
 >
-> ### [**Religious Accommodations**](https://www.clarkson.edu/diversity-and-inclusion-policies)
+> [Religious Accommodations](https://www.clarkson.edu/diversity-and-inclusion-policies)

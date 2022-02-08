@@ -123,10 +123,10 @@ _This calendar is tentative, and subject to revision during the semester._
                     Introduction to xfig project
                 </p>
                 <p>
-                    -<a href="http://mcj.sourceforge.net/">Official Website</a>
+                    - <a href="http://mcj.sourceforge.net/">Official Website</a>
                 </p>
                 <p>
-                    -<a href="https://drive.google.com/file/d/1CD_pwKRH8kKTuWUuFsbelUGlxHtzVp_d/view?usp=sharing">Xfig Overview Demo</a>
+                    - <a href="https://drive.google.com/file/d/1CD_pwKRH8kKTuWUuFsbelUGlxHtzVp_d/view?usp=sharing">Xfig Overview Demo</a>
                 </p>
             </td>
             <td>

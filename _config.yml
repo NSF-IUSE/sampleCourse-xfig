@@ -1,4 +1,4 @@
-title: "Mango"
+title: "EE368 Software Engineering - Xfig"
 remote_theme: pmarsceill/just-the-docs
 
 # Color scheme supports "light" (default) and "dark"
@@ -14,3 +14,5 @@ logo: "/assets/images/uni_icon.png"
 
 plugins:
   - jekyll-spaceship
+
+theme: jekyll-theme-cayman
