@@ -116,6 +116,13 @@ a {
   white-space: break-spaces !important;
 }
 
+@media (min-width: 50rem) {
+  .site-header {
+    height: 200px !important;
+    max-height: 200px!important;
+  }
+}
+
 .label {
   font-family: cursive;
 }
