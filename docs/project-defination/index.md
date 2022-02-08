@@ -257,10 +257,6 @@ This course project is team based. Students attending this course will be groupe
     </tbody>
 </table>
 
-Each team needs to choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and assigning tasks. Each feature will have a **feature champion** (others team members, except the team leader), who will lead this feature development. All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
-
-Grading rules for each deliverable will be posted on moodle assignments. Late submission will not be accepted unless the instructor has been notified with an acceptable reason.
-
 ## **Grading**
 
 - 70 points (projects)

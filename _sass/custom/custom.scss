@@ -116,6 +116,24 @@ a {
   white-space: break-spaces !important;
 }
 
+@media (min-width: 50rem) {
+  .site-header {
+    height: 200px !important;
+    max-height: 200px!important;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: calc((100% - 1264px) / 2 + 264px);
+    min-width: 264px;
+  }
+  .main {
+    margin-left: calc( (100% - 1264px) / 2 + 264px );
+    max-width: 950px;
+  }
+}
+
 .label {
   font-family: cursive;
 }
