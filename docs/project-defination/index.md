@@ -19,7 +19,7 @@ has_children: false
 
 ## **Team Setup:**
 
-This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of an open-source software Mango. Teams will work on 5 new features of Mango, which are provided through feature description documents.  These 5 features are supposed to include 2 easy ones, 2 medium difficult ones and 1 hard one.
+This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of an open-source software Xfig. Teams will work on 5 new features of Xfig, which are provided through feature description documents.  These 5 features are supposed to include 2 easy ones, 2 medium difficult ones and 1 hard one.
 
 Each team needs to choose a member as the project leader (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and coordinating tasks. Each feature will have a feature champion, who will lead this feature development. Among the 5 team members, one member will be the feature champion for the two easy features. Each medium difficult feature will have a single feature champion. The hard feature will have two feature campions including the project leader and one more team member.
 
@@ -30,7 +30,6 @@ Grading rules for each deliverable will be posted on moodleMoodle assignments. L
 ## **Feature Change Requests:**
 
 This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
-
 
 <table>
     <tbody>
