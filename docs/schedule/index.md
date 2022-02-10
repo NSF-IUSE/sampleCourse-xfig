@@ -9,6 +9,12 @@ has_children: false
 
 _This calendar is tentative, and subject to revision during the semester._
 
+<strong class="label label-green">Green</strong>- lectures
+
+<strong class="label label-blue">Blue</strong>- supporting activities, including labs, tutorial, demo, etc
+
+<strong class="label label-red">Red</strong>- student project deliverables
+
 <table>
     <thead>
         <tr>
@@ -73,7 +79,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L01</strong> – <a href="../../assets/files/L01- history of software engineering.ppt">History of Software Engineering</a>
+                    <strong class="label label-green">L01</strong>- <a href="../../assets/files/L01- history of software engineering.ppt">History of Software Engineering</a>
                 </p>
             </td>
             <td>
@@ -92,7 +98,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L02</strong> – <a href="../../assets/files/L02 - software life span models.ppt">Software Lifespan Model</a>
+                    <strong class="label label-green">L02</strong>- <a href="../../assets/files/L02 - software life span models.ppt">Software Lifespan Model</a>
                 </p>
             </td>
             <td>
@@ -106,7 +112,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L03</strong> – <a href="../../assets/files/L03 - software technologies.ppt">Software Technologies</a>
+                    <strong class="label label-green">L03</strong>- <a href="../../assets/files/L03 - software technologies.ppt">Software Technologies</a>
                 </p>
             </td>
             <td>
@@ -120,7 +126,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    Introduction to xfig project
+                    <strong class="label label-blue">Tutorial</strong>- Introduction to Xfig project
                 </p>
                 <p>
                     - <a href="http://mcj.sourceforge.net/">Official Website</a>
@@ -149,7 +155,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L04</strong> – <a href="../../assets/files/L04 - software models.ppt">Software Models</a>
+                    <strong class="label label-green">L04</strong>- <a href="../../assets/files/L04 - software models.ppt">Software Models</a>
                 </p>
             </td>
             <td>
@@ -163,7 +169,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">LAB</strong>: Install and build xfig 
+                    <strong class="label label-blue">LAB</strong>- Install and build Xfig 
                 </p>
                 <p>
                     - <a href="https://drive.google.com/file/d/1lSNQg7SpQp0c8GRTrtML888nAMXOVg9p/view?usp=sharing">On Ubuntu Linux Server/Laptop/Virtual machine</a>
@@ -183,7 +189,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    Supporting Techniques of xfig and its Discussion – X Window
+                    Supporting Techniques of Xfig and its Discussion - X Window
                     (Presented by Students)
                 </p>
             </td>
@@ -206,14 +212,14 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    Discussion: the Architecture of xfig Source Codes
+                    Discussion: the Architecture of Xfig Source Codes
                     (Illustrating the Architecture with UML style diagrams
-                    drawn by xfig itself)
+                    drawn by Xfig itself)
                 </p>
             </td>
             <td>
                 <p>
-                    Start working on the xfig architecture diagrams
+                    Start working on the Xfig architecture diagrams
                 </p>
             </td>
         </tr>
@@ -225,7 +231,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L05</strong> – <a href="../../assets/files/L05 - introduction to software change.ppt">Introduction to Software Changes</a>
+                    <strong class="label label-green">L05</strong>- <a href="../../assets/files/L05 - introduction to software change.ppt">Introduction to Software Changes</a>
                 </p>
             </td>
             <td>
@@ -239,7 +245,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P01a</strong> – xfig Architecture Presentation (Section I)
+                    <strong class="label label-red">P01a</strong>- Xfig Architecture Presentation (Section I)
                 </p>
             </td>
             <td>
@@ -261,7 +267,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P01b</strong> – xfig Architecture Presentation (Section II)
+                    <strong class="label label-red">P01b</strong>- Xfig Architecture Presentation (Section II)
                 </p>
             </td>
             <td>
@@ -275,7 +281,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    S01 – Special Topic 1
+                    <strong class="label label-green">S01</strong> - Special Topic 1
                 </p>
             </td>
             <td>
@@ -342,7 +348,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L06</strong> – <a href="../../assets/files/L06 - concepts and concept location.ppt">Concepts and Concept Location</a>
+                    <strong class="label label-green">L06</strong>- <a href="../../assets/files/L06 - concepts and concept location.ppt">Concepts and Concept Location</a>
                 </p>
             </td>
             <td>
@@ -361,7 +367,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L07</strong> – <a href="../../assets/files/L07 - impact analysis.ppt">Impact Analysis</a>
+                    <strong class="label label-green">L07</strong>- <a href="../../assets/files/L07 - impact analysis.ppt">Impact Analysis</a>
                 </p>
             </td>
             <td>
@@ -375,7 +381,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P02a</strong> – Requirement Presentation (Section I)
+                    <strong class="label label-red">P02a</strong>- Requirement Presentation (Section I)
                 </p>
             </td>
             <td>
@@ -392,7 +398,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P02b</strong> – Requirement Presentation (Section II)
+                    <strong class="label label-red">P02b</strong>- Requirement Presentation (Section II)
                 </p>
             </td>
             <td>
@@ -411,7 +417,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L08</strong> – <a href="../../assets/files/L08 - actualization.ppt">Actualization</a>
+                    <strong class="label label-green">L08</strong>- <a href="../../assets/files/L08 - actualization.ppt">Actualization</a>
                 </p>
             </td>
             <td>
@@ -425,7 +431,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L09</strong> – <a href="../../assets/files/L09 - refactoring.ppt">Refactoring</a>
+                    <strong class="label label-green">L09</strong>- <a href="../../assets/files/L09 - refactoring.ppt">Refactoring</a>
                 </p>
             </td>
             <td>
@@ -439,7 +445,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L10</strong> – <a href="../../assets/files/L10 - verification.ppt">Verification</a>
+                    <strong class="label label-green">L10</strong>- <a href="../../assets/files/L10 - verification.ppt">Verification</a>
                 </p>
             </td>
             <td>
@@ -458,7 +464,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L11</strong> – <a href="../../assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
+                    <strong class="label label-green">L11</strong>- <a href="../../assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
                 </p>
             </td>
             <td>
@@ -486,7 +492,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L12</strong> – <a href="../../assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
+                    <strong class="label label-green">L12</strong>- <a href="../../assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
                 </p>
                 <p>
                     Essay Assignment
@@ -511,7 +517,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P03a</strong> – Design (Concept Location &amp; Impact Analysis)
+                    <strong class="label label-red">P03a</strong>- Design (Concept Location &amp; Impact Analysis)
                     Presentation (Section I)
                 </p>
             </td>
@@ -529,7 +535,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P03b</strong> – Design (Concept Location &amp; Impact Analysis)
+                    <strong class="label label-red">P03b</strong>- Design (Concept Location &amp; Impact Analysis)
                     Presentation (Section II)
                 </p>
             </td>
@@ -544,7 +550,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L13</strong> – <a href="../../assets/files/L13 - final stages.ppt">Software Security</a>
+                    <strong class="label label-green">L13</strong>- <a href="../../assets/files/L13 - final stages.ppt">Software Security</a>
                 </p>
             </td>
             <td>
@@ -625,7 +631,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P04a</strong> – Test Plan &amp; Cases Presentation (Section I)
+                    <strong class="label label-red">P04a</strong>- Test Plan &amp; Cases Presentation (Section I)
                 </p>
             </td>
             <td>
@@ -645,7 +651,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P04a</strong> – Test Plan &amp; Cases Presentation (Section II)
+                    <strong class="label label-red">P04a</strong>- Test Plan &amp; Cases Presentation (Section II)
                 </p>
             </td>
             <td>
@@ -821,7 +827,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    S02 – Special Topic 2
+                    <strong class="label label-green">S02</strong> - Special Topic 2
                 </p>
             </td>
             <td>
@@ -835,7 +841,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P05a</strong> – Team Presentation and Demo of New Features (Section
+                    <strong class="label label-red">P05a</strong>- Team Presentation and Demo of New Features (Section
                     I)
                 </p>
             </td>
@@ -854,7 +860,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-red">P05a</strong> – Team Presentation and Demo of New Features (Section
+                    <strong class="label label-red">P05a</strong>- Team Presentation and Demo of New Features (Section
                     II)
                 </p>
             </td>

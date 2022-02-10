@@ -15,21 +15,19 @@ has_children: false
 
 3. Work in the team environment;
 
-4. Practice presentation and communication skills requested by software engineering.
+4. Practice presentation and communication skills by software engineering.
 
 ## **Team Setup:**
 
 This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of an open-source software Xfig. Teams will work on 5 new features of Xfig, which are provided through feature description documents.  These 5 features are supposed to include 2 easy ones, 2 medium difficult ones and 1 hard one.
 
-Each team needs to choose a member as the project leader (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and coordinating tasks. Each feature will have a feature champion, who will lead this feature development. Among the 5 team members, one member will be the feature champion for the two easy features. Each medium difficult feature will have a single feature champion. The hard feature will have two feature campions including the project leader and one more team member.
+Each team must choose a member as the **project leader** (with 5% bonus of the final project points). The project leader has the responsibility of managing the project and coordinating tasks. Each feature will have a **feature champion**, who will lead this feature development. Among the 5 team members, one member will be the feature champion for the two easy features. Each medium difficult feature will have a single feature champion. The hard feature will have two feature champions including the project leader and one more team member.
 
-All documents, presentation slides, source codes and other deliverables must be uploaded to the moodleMoodle before the due date. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
+All documents, presentation slides, source codes and other deliverables must be uploaded to the Moodle before the due date. At the end of the semester, the team members will do a cross evaluation of contribution among each other.
 
-Grading rules for each deliverable will be posted on moodleMoodle assignments. Late submission will not be accepted due to the presentation schedule.
+Grading rules for each deliverable will be posted on Moodle assignments. Late submission will not be accepted due to the presentation schedule.
 
 ## **Feature Change Requests:**
-
-This course project is team based. Students attending this course will be grouped into 4 teams (5 students per team) and focus on software maintenance of a well-known open source software xfig. Teams will work on 4 new features of xfig, which are listed below.
 
 <table>
     <tbody>
@@ -51,14 +49,14 @@ This course project is team based. Students attending this course will be groupe
             </td>
             <td>
                 <p>
-                    <strong>Difficulty</strong>
+                    <strong>Difficulty Level</strong>
                 </p>
             </td>
         </tr>
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/2">Enhanced Rotation #1</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/2">Enhanced Rotation #1</a>
                 </p>
             </td>
             <td>
@@ -80,7 +78,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/1">Auto Increment Default Depth Value #2</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/1">Auto Increment Default Depth Value #2</a>
                 </p>
             </td>
             <td>
@@ -102,7 +100,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/3">Shortcut Button for Toggling Unit of Length #3</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/3">Shortcut Button for Toggling Unit of Length #3</a>
                 </p>
             </td>
             <td>
@@ -124,7 +122,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/4">Shortcut Button for Undo #4</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/4">Shortcut Button for Undo #4</a>
                 </p>
             </td>
             <td>
@@ -146,7 +144,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/5">Free Selection #5</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/5">Free Selection #5</a>
                 </p>
             </td>
             <td>
@@ -168,7 +166,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/6">Quick Coloring #6</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/6">Quick Coloring #6</a>
                 </p>
             </td>
             <td>
@@ -190,7 +188,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/7">Enhanced Undo/Redo #7</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/7">Enhanced Undo/Redo #7</a>
                 </p>
             </td>
             <td>
@@ -212,7 +210,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/8">Exporting to VDX Format #8</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/8">Exporting to VDX Format #8</a>
                 </p>
             </td>
             <td>
@@ -234,7 +232,7 @@ This course project is team based. Students attending this course will be groupe
         <tr>
             <td>
                 <p>
-                    <a href="https://github.com/Da-vid21/xfig-3.2.8a/issues/9">Send to Back & Bring to Front #9</a>
+                    <a href="https://github.com/Da-vid21/Xfig-3.2.8a/issues/9">Send to Back & Bring to Front #9</a>
                 </p>
             </td>
             <td>
@@ -258,28 +256,27 @@ This course project is team based. Students attending this course will be groupe
 
 ## **Grading**
 
-- 70 points (projects)
+- **70 points** (projects)
 
-> – xfig Architecture Document & Presentation: 10 points
+>- Xfig Architecture Document & Presentation: **10 points**
 >
-> – New Features Analysis (a.k.a., Requirements): 10 points
+>- New Features Analysis (a.k.a., Requirements): **10 points**
 >
-> – Design (Concept Location & Impact Analysis): 10 points
+>- Design (Concept Location & Impact Analysis): **10 points**
 >
-> – Test Cases & Results: 10 points
+>- Test Cases & Results: **10 points**
 >
-> – Code Inspection: 10 points
+>- Code Inspection: **10 points**
 >
-> – New Features: 20 points (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
+>- New Features: **20 points** (10 points/feature, feature champion: your feature + sum of other features/3, team leader: sum of all features/2)
 
-- 5 points – xfig Supporting Technique – X Window Document & Presentation
-- 5 points - Cross Evaluation of Contribution of Team Members
-- 5 points – Essay for Ethics and Social Issues in Software Engineering under the COVID-19 pandemic (minimal 2 pages excluding references)
-- 15 points – Exam
+- **5 points** - Xfig Supporting Technique - X Window Document & Presentation
+- **5 points** - Cross Evaluation of Contribution of Team Members
+- **5 points** - Essay for Ethics and Social Issues in Software Engineering under the COVID-19 pandemic (minimal 2 pages excluding references)
+- **15 points** - Exam
 
-### **Criteria**
-
-- Grading rule for each assignment will be posted on moodle.
+## **Criteria:**
+- Grading rules for each assignment will be posted on Moodle.
 
 ## **Deliverables & Schedule & Grading Rules:**
 
@@ -287,87 +284,87 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 ### **1 - _Xfig Architecture Diagrams (Due: February 8, 2021)_**
 
-> (1). You can use any tool including Xfig itself to draw the UML diagrams extracted from Xfig source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
+> **(1).** You can use any tool including Xfig itself to draw the UML diagrams extracted from Xfig source codes. The diagrams include one static diagram (similar to C++ class diagram, called pseudo class diagram) and one activity diagram (3 points for each of them: 3 - Good, 2 - Fair, 1 - Poor). Your diagrams need to have significant improvement compared to the sample ones. Otherwise, you cannot get the points.
 >
-> (2). One-page summary explaining these two diagrams and your improvements in details is requested. (2 point)
+> **(2).** One-page summary explaining these two diagrams and your improvements in details is requested. (2 point)
 >
-> (3). Presentation slides are not requested. You can present based on your diagrams and the summary. (2 points)
+> **(3).** Presentation slides are not requested. You can present based on your diagrams and the summary. (2 points)
 >
 > Note that the rules for the absence of presentation are the same as before.
 
 ### **2 - _Requirement Book (Due: March 1, 2021)_**
 
-> (1). Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
+> **(1).** Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
 >
-> (Very Poor: 1 point, Poor: 2 point, Fair: 3 points, Fair/Good: 4 points, Good: 5 points, Excellent: 6 points)
+> (**Very Poor**: 1 point, **Poor:** 2 point, **Fair:** 3 points, **Fair/Good:* 4 points, **Good:** 5 points, **Excellent:** 6 points)
 >
-> Grading Criteria:
+> **Grading Criteria:**
 >
-> Very Poor: No difference compared to the feature change requests.
+> **Very Poor:** No difference compared to the feature change requests.
 >
-> Poor: Difference can be observed, but requirements are not itemized.
+> **Poor:** Difference can be observed, but requirements are not itemized.
 >
-> Fair: Difference can be observed, and requirements have been itemized.
+> **Fair:** Difference can be observed, and requirements have been itemized.
 >
-> Fair/Good: All itemized requirements are feasible, testable, concise, and clear.
+> **Fair/Good:** All itemized requirements are feasible, testable, concise, and clear.
 >
-> Good: Sufficient interaction with other relevant features have been included.
+> **Good:** Sufficient interaction with other relevant features have been included.
 >
-> Excellent: Smart, effective and user friendly solutions have been proposed to address the feature interaction.
+> **Excellent:** Smart, effective and user friendly solutions have been proposed to address the feature interaction.
 >
-> (2). Presentation: 2 points (must attend the presentation to get this credit)
+> **(2).** Presentation: 2 points (must attend the presentation to get this credit)
 >
-> (3). Feature Change Request Table: 2 points
+> **(3).** Feature Change Request Table: 2 points
 
 ### **3 - _Design (Concept Location & Impact Analysis) (Due: March 15, 2021)_**
 
-> (1). Updating the requirement book based on the comments from the instructor (2 points): Note - you need to highlight the changes, and create the change history table to get this credit.
+> **(1).** Updating the requirement book based on the comments from the instructor (2 points): Note - you need to highlight the changes, and create the change history table to get this credit.
 >
-> (2). Updating the diagrams to support the design (1 point): Note - you cannot get this credit if your diagram updating has no connection with the needs of your concept location and impact analysis.
+> **(2).** Updating the diagrams to support the design (1 point): Note - you cannot get this credit if your diagram updating has no connection with the needs of your concept location and impact analysis.
 >
-> (3). Presentation (2 points): You must attend the presentation to get this credit.
+> **(3).** Presentation (2 points): You must attend the presentation to get this credit.
 >
-> (4). Feature (5 points): 5 points per feature (2 points for concept location, and 3 points for impact analysis), and "the grading = # points of total features / # of features"
+> **(4).** Feature (5 points): 5 points per feature (2 points for concept location, and 3 points for impact analysis), and "the grading = # points of total features / # of features"
 >
-> (i). Concept Location:
+> **(i).** Concept Location:
 >
 > Describing the progress of building and executing the query for your feature - 1 point
 >
 > Concept location result - 1 point
 >
-> (ii). Impact Analysis: Note - you must follow the methodology introduced in the lecture and take use of your static diagram, otherwise no credit will be obtained
+> **(ii).** Impact Analysis: Note - you must follow the methodology introduced in the lecture and take use of your static diagram, otherwise no credit will be obtained
 >
-> Grading Criteria:
+> **Grading Criteria:**
 >
-> Poor - 1 point: only provide the impact analysis result and mark it on your static diagram.
+> **Poor** - 1 point: only provide the impact analysis result and mark it on your static diagram.
 >
-> Fair - 2 points: provide the impact analysis result and mark it on your static diagram. Also, the progress and its explanation are given in detail.
+> **Fair** - 2 points: provide the impact analysis result and mark it on your static diagram. Also, the progress and its explanation are given in detail.
 >
-> Good - 3 points: Two different coding solutions have been evaluated based on their impact analysis results, and the decision has been given based on the evaluation result. Note - if it is impossible to have 2 alternative solutions, please explain it in detail.
+> **Good** - 3 points: Two different coding solutions have been evaluated based on their impact analysis results, and the decision has been given based on the evaluation result. Note - if it is impossible to have 2 alternative solutions, please explain it in detail.
 >
 > Note that please submit your requirement book revision, static diagram revision and design document in one zip file.
 
 ### **4 - _Test Cases & Test Results (Due: April 28, 2021)_**
 
-> Grading (10 points in total):
+> **Grading (10 points in total):**
 >
-> Test case and requirement book traceability table: 1 point
+> **Test case and requirement book traceability table:** 1 point
 >
-> Presentation: 2 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
+> **Presentation:** 2 points (Note: you must attend the presentation to get this credit unless an acceptable reason has been sent to the instructor before the presentation)
 >
-> Test Cases: 4 points per feature and the final grading is the average points of all your features.
+> **Test Cases:** 4 points per feature and the final grading is the average points of all your features.
 >
-> Grading Criteria:
+> **Grading Criteria:**
 >
-> Excellent - 4 points: Full coverage to all requirements has been reached, and all test cases can be considered full test cases. Note - a test case with all key elements (i.e., case ID, title, dependency, input specification, test steps, and output specification) can be considered a full test case.
+> **Excellent - 4 points:** Full coverage to all requirements has been reached, and all test cases can be considered full test cases. Note - a test case with all key elements (i.e., case ID, title, dependency, input specification, test steps, and output specification) can be considered a full test case.
 >
-> Good - 3 points: Full coverage to all requirements has been reached, and a few test cases have issues to be considered a full test case.
+> **Good - 3 points:** Full coverage to all requirements has been reached, and a few test cases have issues to be considered a full test case.
 >
-> Fair - 2 points: Full coverage to all requirements has been reached, and a significant number of test cases have issues in being considered full test cases.
+> **Fair - 2 points:** Full coverage to all requirements has been reached, and a significant number of test cases have issues in being considered full test cases.
 >
-> Poor - 1 point: Full coverage to all requirements has NOT been reached, and a significant number of test cases have issues in being considered full test cases.
+> **Poor - 1 point:** Full coverage to all requirements has NOT been reached, and a significant number of test cases have issues in being considered full test cases.
 >
-> Test Results: 3 points (test results are due by Apr. 26, 2021 10:20am)
+> **Test Results:** 3 points (test results are due by Apr. 26, 2021 10:20am)
 
 ### **5 - _Code Inspection (Due: April 28, 2021)_**
 
@@ -377,8 +374,8 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 ### **6 - _Features (Due: April 28, 2021)_**
 
-> (1). Coding is due by Apr. 28, 2021 before the class, and all requirements need to be demonstrated in the class;
+> **(1).** Coding is due by Apr. 28, 2021 before the class, and all requirements need to be demonstrated in the class;
 >
-> (2). Commit all codes into the GitHub repository by Apr. 28, 2021 before the class, and a copy of source codes of xfig needs to be submitted here.
+> **(2).** Commit all codes into the GitHub repository by Apr. 28, 2021 before the class, and a copy of source codes of Xfig needs to be submitted here.
 >
-> (3). Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same moodle assignment as test cases
+> **(3).** Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same moodle assignment as test cases
