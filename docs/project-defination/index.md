@@ -296,7 +296,7 @@ All documents, presentation slides, source codes and other deliverables must be 
 
 > **(1).** Requirement Book for new features (6 points per feature, and the final grading is the average points of all features)
 >
-> (**Very Poor**: 1 point, **Poor:** 2 point, **Fair:** 3 points, **Fair/Good:* 4 points, **Good:** 5 points, **Excellent:** 6 points)
+> (**Very Poor**: 1 point, **Poor:** 2 point, **Fair:** 3 points, **Fair/Good:** 4 points, **Good:** 5 points, **Excellent:** 6 points)
 >
 > **Grading Criteria:**
 >
