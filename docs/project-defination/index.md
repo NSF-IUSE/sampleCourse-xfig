@@ -280,7 +280,7 @@ Grading rules for each deliverable will be posted on Moodle assignments. Late su
 
 ## **Deliverables & Schedule & Grading Rules:**
 
-All documents, presentation slides, source codes and other deliverables must be uploaded to the moodle before the due date. Grading rules for each deliverable are shown below. Late submission will not be accepted unless the instructor has been notified with an acceptable reason (e.g., health issues, travel for academic conferences or interviews, …, on a case by case basis).
+All documents, presentation slides, source codes and other deliverables must be uploaded to Moodle before the due date. Grading rules for each deliverable are shown below. Late submission will not be accepted unless the instructor has been notified with an acceptable reason (e.g., health issues, travel for academic conferences or interviews, …, on a case by case basis).
 
 ### **1 - _Xfig Architecture Diagrams (Due: February 8, 2021)_**
 
