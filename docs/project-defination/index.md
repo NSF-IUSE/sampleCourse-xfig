@@ -378,4 +378,4 @@ All documents, presentation slides, source codes and other deliverables must be 
 >
 > **(2).** Commit all codes into the GitHub repository by Apr. 28, 2021 before the class, and a copy of source codes of Xfig needs to be submitted here.
 >
-> **(3).** Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same moodle assignment as test cases
+> **(3).** Pass all test cases (the test log needs to be submitted by Apr. 28, 2021 before the class) Note: the same Moodle assignment as test cases
