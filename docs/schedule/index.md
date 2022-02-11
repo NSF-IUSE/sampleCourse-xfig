@@ -114,6 +114,9 @@ _This calendar is tentative, and subject to revision during the semester._
                 <p>
                     <strong class="label label-green">L03</strong><a href="../../assets/files/L03 - software technologies.ppt">Software Technologies</a>
                 </p>
+                <p>
+                    <strong class="label label-blue">Lab</strong><a href="../../assets/files/Lab-Github.pdf">Github</a>
+                </p>
             </td>
             <td>
             </td>
@@ -126,13 +129,13 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">Tutorial</strong>Introduction to Xfig project
+                    <strong class="label label-blue">Tutorial</strong>Intro to Xfig project
                 </p>
                 <p>
-                    - <a href="http://mcj.sourceforge.net/">Official Website</a>
+                    - <a href="https://drive.google.com/file/d/1CD_pwKRH8kKTuWUuFsbelUGlxHtzVp_d/view?usp=sharing">Xfig Overview Video</a>
                 </p>
                 <p>
-                    - <a href="https://drive.google.com/file/d/1CD_pwKRH8kKTuWUuFsbelUGlxHtzVp_d/view?usp=sharing">Xfig Overview Demo</a>
+                    - <a href="http://mcj.sourceforge.net/">Official Xfig Website</a>
                 </p>
             </td>
             <td>
@@ -169,7 +172,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-blue">LAB</strong>Install and build Xfig 
+                    <strong class="label label-blue">Lab</strong>Install and build Xfig 
                 </p>
                 <p>
                     - <a href="https://drive.google.com/file/d/1lSNQg7SpQp0c8GRTrtML888nAMXOVg9p/view?usp=sharing">On Ubuntu Linux Server/Laptop/Virtual machine</a>
@@ -281,7 +284,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">S01</strong> - Special Topic 1
+                    <strong class="label label-green">SL</strong>Special Topic 1
                 </p>
             </td>
             <td>
@@ -316,9 +319,12 @@ _This calendar is tentative, and subject to revision during the semester._
                 <p>
                     Discussion: discuss the new features (new send to
                     back/bring to front + new export format + your proposed 2
-                    features) &amp; writing requirements of new features
+                    features)
                 </p>
-            </td>
+                <p>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Requirements%20Writing.ppt">Intro to Requirements Writing & In-class Practice</a>
+                </p>            
+                </td>
             <td>
                 <p>
                     Your proposed two features need to be ready for discussion
@@ -464,7 +470,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L11</strong><a href="../../assets/files/L11 - conclusion of software change.ppt">Code Inspection</a>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Code%20Inspection.ppt">Intro Code Inspection</a>
                 </p>
             </td>
             <td>
@@ -492,7 +498,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L12</strong><a href="../../assets/files/L12 - introduction to software processes.ppt">Conclusion of Software Changes</a>
+                    <strong class="label label-green">L11</strong><a href="../../assets/files/L11%20-%20conclusion%20of%20software%20change.ppt">Conclusion of Software Changes</a>
                 </p>
                 <p>
                     Essay Assignment
@@ -550,7 +556,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">L13</strong><a href="../../assets/files/L13 - final stages.ppt">Software Security</a>
+                    <strong class="label label-green">L12</strong>Software Security
                 </p>
             </td>
             <td>
@@ -597,8 +603,10 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    Discussion: Test Cases &amp; Plan, Code Inspection Plan
-                    &amp; Assignments
+                    Discussion: Code Inspection Plan &amp; Assignments
+                </p>
+                <p>
+                    <strong class="label label-green">SL</strong><a href="../../assets/files/Intro%20to%20Test%20Case%20Writing.ppt">Intro to Test Case Writing & In-class Practice</a>
                 </p>
             </td>
             <td>
@@ -827,7 +835,7 @@ _This calendar is tentative, and subject to revision during the semester._
             </td>
             <td>
                 <p>
-                    <strong class="label label-green">S02</strong> - Special Topic 2
+                    <strong class="label label-green">SL</strong>Special Topic 2
                 </p>
             </td>
             <td>

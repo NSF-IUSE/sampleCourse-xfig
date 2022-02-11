@@ -10,12 +10,12 @@
 ## **Instructor Contact Information**
 
 Name: Yu Liu
-Classroom Address: SC 346
+Classroom Address: CAMP 178
 Phone Number: (315)268-6510
 Email Address: yuliu@clarkson.edu
 Office Hours: 1pm-3pm Monday, Wednesday, and Friday
 
-- Will be conducted virtually via Zoom in Spring 2022.
+- Will be virtually via Zoom in Spring 2021.
 
 ## **Instructor Participation**
 
